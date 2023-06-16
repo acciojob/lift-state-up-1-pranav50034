@@ -1,1 +1,13 @@
+*{
+    box-sizing: border-box;
+}
 
+.parent{
+    background-color: #7C29DE;
+
+}
+
+.child{
+    margin:1em;
+    background-color: #942921;
+}
